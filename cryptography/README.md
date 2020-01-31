@@ -5,7 +5,7 @@
 
 然后在Main.java中修改以下３处。
 - cipherName&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;//密码算法文件名
-- integeralDistinguisherName&emsp;//积分区分器文件名
+- integeralDistinguisherName&emsp;&emsp;//积分区分器文件名
 - path&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;//存放以上文件的位置
 
 最后运行Main.java 即可。
